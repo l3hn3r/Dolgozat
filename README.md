@@ -1,1 +1,2 @@
 # Dolgozat
+Lehner Attila Zoltán
